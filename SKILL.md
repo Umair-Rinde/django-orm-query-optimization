@@ -2,7 +2,6 @@
 name: django-orm-query-optimization
 description: "Diagnose and safely optimize Django ORM/database access in views, APIs, serializers, templates, admin, and jobs. Use for suspected N+1 queries, slow SQL, excessive data loading, inefficient aggregation, pagination, indexing, caching, bulk writes, and ORM performance tests."
 category: backend-and-data
-source_repo: hashgraph-online/awesome-codex-plugins
 source_path: "plugins/LVTD-LLC/skills/skills/django-orm-query-optimization/SKILL.md"
 ---
 
